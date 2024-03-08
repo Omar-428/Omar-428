@@ -28,14 +28,14 @@
 <b>Lets connect</b>
 <p align="center">
 
-<a href="https://www.linkedin.com/in/omar-mahmood-29a7a71a1/”
+
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href=" https://public.tableau.com/app/profile/omar.mahmood5122/vizzes">
+  <a href= "https://public.tableau.com/app/profile/omar.mahmood5122/vizzes">
   <img align="center" src="https://img.shields.io/badge/-Tableau-1e376b?style=for-the-badge&logo=tableau&logoColor=white"  />
 </a>
 
 </p>
-![image](https://github.com/Omar-428/Omar-428/assets/157135250/4c29680d-c43f-44cb-b287-b13aa0a1146a)
+
 
